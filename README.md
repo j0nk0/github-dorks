@@ -118,3 +118,4 @@ filename:wp-config.php                          | wordpress config files
 filename:configuration.php JConfig password     | Joomla configuration file
 filename:config.php dbpasswd                    | PHP application database password (e.g., phpBB forum software)
 path:sites databases password                   | Drupal website database credentials
+filename:secrets.yml password                   | Rails uses file secrets.yml to hold API keys and passwords
