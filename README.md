@@ -115,3 +115,6 @@ filename:.bashrc mailchimp                      | variation of above (try more v
 filename:ventrilo_srv.ini                       | Ventrilo configuration
 [WFClient] Password= extension:ica              | WinFrame-Client infos needed by users to connect toCitrix Application Servers
 filename:wp-config.php                          | wordpress config files
+filename:configuration.php JConfig password     | Joomla configuration file
+filename:config.php dbpasswd                    | PHP application database password (e.g., phpBB forum software)
+path:sites databases password                   | Drupal website database credentials
