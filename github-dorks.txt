@@ -73,3 +73,6 @@ filename:CCCam.cfg
 msg nickserv identify filename:config
 filename:settings.py SECRET_KEY
 filename:secrets.yml password
+filename:configuration.php JConfig password
+filename:config.php dbpasswd
+path:sites databases password
